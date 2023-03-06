@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Patrick
+
+- TypeScript
+- Angular
+- and other nerd stuff...
 
 <!--
 **patrickschroeter/patrickschroeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
